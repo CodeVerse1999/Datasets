@@ -1,0 +1,586 @@
+timestamp,source_address,destination_address,number_of_cabs,base_price,adjusted_price,day_of_week,is_working_day,is_holiday,month
+2023-04-15 06:24:02,Koramangala,Whitefield,15,226.07,352.67,Saturday,0,1,4
+2023-05-12 06:08:33,HSR Layout,HSR Layout,30,130.77,170.0,Friday,1,0,5
+2023-05-02 17:35:17,Koramangala,Koramangala,49,284.73,555.22,Tuesday,1,0,5
+2021-07-23 23:10:05,Indiranagar,HSR Layout,48,195.8,195.8,Friday,1,0,7
+2022-11-21 22:52:57,MG Road,Koramangala,9,266.88,266.88,Monday,1,0,11
+2022-12-08 23:44:55,Whitefield,Koramangala,32,201.12,201.12,Thursday,1,0,12
+2023-06-01 18:15:50,Koramangala,MG Road,21,186.28,279.42,Thursday,1,0,6
+2021-08-15 04:23:30,Indiranagar,HSR Layout,16,174.22,209.06,Sunday,0,1,8
+2022-07-02 06:37:36,Koramangala,Whitefield,40,249.85,389.77,Saturday,0,1,7
+2022-04-18 18:08:12,Indiranagar,MG Road,4,209.18,407.9,Monday,1,0,4
+2022-05-10 13:55:54,Whitefield,HSR Layout,24,269.88,350.84,Tuesday,1,0,5
+2022-12-01 04:38:30,Koramangala,HSR Layout,21,242.06,242.06,Thursday,1,0,12
+2023-11-27 02:51:00,Indiranagar,HSR Layout,6,222.62,222.62,Monday,1,0,11
+2023-04-26 10:47:57,Koramangala,Koramangala,3,274.09,356.32,Wednesday,1,0,4
+2022-05-14 22:34:38,Whitefield,Koramangala,15,295.4,460.82,Saturday,0,1,5
+2023-09-06 00:44:26,Koramangala,Koramangala,35,145.97,189.76,Wednesday,1,0,9
+2022-06-20 22:45:12,HSR Layout,Koramangala,47,148.48,193.02,Monday,1,0,6
+2022-08-27 04:25:48,Whitefield,Whitefield,15,164.17,256.11,Saturday,0,1,8
+2022-08-03 04:46:45,HSR Layout,Whitefield,13,221.03,221.03,Wednesday,1,0,8
+2023-08-02 01:52:12,Whitefield,Koramangala,34,174.23,226.5,Wednesday,1,0,8
+2022-07-18 06:07:08,Indiranagar,Indiranagar,4,256.09,256.09,Monday,1,0,7
+2022-12-18 04:37:57,MG Road,Koramangala,3,219.56,263.47,Sunday,0,1,12
+2022-08-07 20:58:03,Whitefield,MG Road,13,286.19,446.46,Sunday,0,1,8
+2022-05-06 10:28:28,Whitefield,Koramangala,6,157.26,157.26,Friday,1,0,5
+2023-11-23 16:43:34,Whitefield,HSR Layout,21,158.54,206.1,Thursday,1,0,11
+2021-04-13 00:26:14,HSR Layout,Koramangala,2,293.47,293.47,Tuesday,1,0,4
+2021-08-15 09:52:38,Koramangala,HSR Layout,15,236.09,368.3,Sunday,0,1,8
+2023-11-10 20:03:13,HSR Layout,Koramangala,12,283.58,368.65,Friday,1,0,11
+2022-08-19 06:47:07,Koramangala,HSR Layout,28,268.52,349.08,Friday,1,0,8
+2021-09-19 10:01:35,HSR Layout,Whitefield,9,283.73,442.62,Sunday,0,1,9
+2021-12-07 11:14:22,Indiranagar,MG Road,27,263.69,342.8,Tuesday,1,0,12
+2022-04-28 14:51:56,MG Road,Whitefield,28,150.14,150.14,Thursday,1,0,4
+2021-03-06 22:07:45,Indiranagar,HSR Layout,29,219.31,342.12,Saturday,0,1,3
+2021-04-07 13:56:24,Koramangala,Koramangala,19,237.94,309.32,Wednesday,1,0,4
+2022-05-03 14:32:39,MG Road,MG Road,2,215.64,215.64,Tuesday,1,0,5
+2022-02-07 20:30:54,Whitefield,HSR Layout,28,157.53,157.53,Monday,1,0,2
+2023-04-30 13:25:49,Indiranagar,MG Road,31,263.83,316.6,Sunday,0,1,4
+2023-05-10 13:42:21,Koramangala,Indiranagar,1,161.56,210.03,Wednesday,1,0,5
+2021-10-05 22:48:32,Indiranagar,MG Road,28,111.91,145.48,Tuesday,1,0,10
+2021-07-21 08:28:07,Whitefield,Whitefield,16,281.39,548.71,Wednesday,1,0,7
+2022-09-05 23:26:02,Whitefield,MG Road,23,290.49,290.49,Monday,1,0,9
+2021-04-19 14:21:36,Indiranagar,Whitefield,24,222.05,288.67,Monday,1,0,4
+2021-02-28 08:03:01,HSR Layout,Koramangala,1,249.23,388.8,Sunday,0,1,2
+2022-08-30 20:52:20,Koramangala,Koramangala,12,112.72,112.72,Tuesday,1,0,8
+2023-10-29 07:53:53,Koramangala,MG Road,3,242.39,378.13,Sunday,0,1,10
+2023-10-05 21:09:55,Whitefield,MG Road,21,191.08,191.08,Thursday,1,0,10
+2021-08-11 02:28:07,HSR Layout,Whitefield,19,139.5,139.5,Wednesday,1,0,8
+2021-08-27 00:37:42,HSR Layout,HSR Layout,45,227.2,295.36,Friday,1,0,8
+2021-04-18 02:42:23,Koramangala,MG Road,36,221.23,345.12,Sunday,0,1,4
+2021-02-19 08:10:58,HSR Layout,Whitefield,10,194.66,379.59,Friday,1,0,2
+2023-03-21 14:57:30,Koramangala,Koramangala,41,261.04,339.35,Tuesday,1,0,3
+2023-05-04 05:55:23,Koramangala,Indiranagar,34,211.49,274.94,Thursday,1,0,5
+2021-01-23 07:25:12,Whitefield,MG Road,12,231.09,360.5,Saturday,0,1,1
+2023-07-10 13:38:28,HSR Layout,Whitefield,22,136.77,177.8,Monday,1,0,7
+2021-03-28 01:35:16,Indiranagar,MG Road,31,176.93,276.01,Sunday,0,1,3
+2023-04-22 14:59:44,HSR Layout,Whitefield,46,114.68,137.62,Saturday,0,1,4
+2021-01-16 06:10:07,HSR Layout,Whitefield,35,272.83,327.4,Saturday,0,1,1
+2022-04-27 22:40:58,Koramangala,HSR Layout,31,177.0,230.1,Wednesday,1,0,4
+2023-10-07 02:02:28,Koramangala,Koramangala,40,181.9,283.76,Saturday,0,1,10
+2022-04-16 00:41:54,MG Road,Whitefield,41,134.87,161.84,Saturday,0,1,4
+2021-09-23 20:32:41,Koramangala,HSR Layout,6,164.95,164.95,Thursday,1,0,9
+2023-05-02 07:46:38,HSR Layout,HSR Layout,6,135.35,203.02,Tuesday,1,0,5
+2021-06-29 03:57:10,Koramangala,HSR Layout,39,187.8,187.8,Tuesday,1,0,6
+2023-08-18 21:15:04,HSR Layout,Whitefield,32,177.61,177.61,Friday,1,0,8
+2022-05-22 18:48:32,Koramangala,Koramangala,28,252.07,302.48,Sunday,0,1,5
+2022-05-11 22:58:49,MG Road,Indiranagar,24,191.15,248.5,Wednesday,1,0,5
+2022-01-12 04:55:31,Whitefield,MG Road,50,102.5,102.5,Wednesday,1,0,1
+2023-05-23 03:30:31,MG Road,HSR Layout,45,168.77,168.77,Tuesday,1,0,5
+2021-08-18 00:53:18,Indiranagar,HSR Layout,29,165.57,165.57,Wednesday,1,0,8
+2021-02-03 19:01:13,HSR Layout,MG Road,20,260.85,391.28,Wednesday,1,0,2
+2023-08-26 04:45:24,Indiranagar,HSR Layout,2,145.33,174.4,Saturday,0,1,8
+2022-11-18 00:34:24,HSR Layout,Indiranagar,49,239.51,239.51,Friday,1,0,11
+2022-09-22 07:58:44,Whitefield,Indiranagar,41,165.45,248.17,Thursday,1,0,9
+2021-10-22 06:21:05,Whitefield,MG Road,36,176.27,229.15,Friday,1,0,10
+2023-07-21 19:14:23,HSR Layout,Koramangala,42,216.37,324.56,Friday,1,0,7
+2021-01-16 04:39:13,Koramangala,Whitefield,49,224.83,350.73,Saturday,0,1,1
+2023-03-13 17:59:00,MG Road,Indiranagar,21,119.58,233.18,Monday,1,0,3
+2023-09-26 11:04:57,Indiranagar,MG Road,20,274.08,274.08,Tuesday,1,0,9
+2023-02-08 20:53:59,Indiranagar,Whitefield,21,136.66,136.66,Wednesday,1,0,2
+2021-11-28 18:26:40,Whitefield,MG Road,1,238.02,371.31,Sunday,0,1,11
+2022-11-02 22:32:14,MG Road,Koramangala,28,195.07,253.59,Wednesday,1,0,11
+2021-08-06 11:53:13,HSR Layout,Whitefield,43,117.55,152.81,Friday,1,0,8
+2022-02-20 15:57:53,HSR Layout,Koramangala,27,224.83,269.8,Sunday,0,1,2
+2023-06-25 23:14:29,MG Road,HSR Layout,27,292.13,455.72,Sunday,0,1,6
+2023-02-28 02:05:24,HSR Layout,HSR Layout,47,182.54,237.3,Tuesday,1,0,2
+2021-09-25 23:23:47,Indiranagar,Koramangala,20,152.56,183.07,Saturday,0,1,9
+2023-03-02 13:29:29,Koramangala,Whitefield,46,213.91,278.08,Thursday,1,0,3
+2023-03-03 07:24:05,Whitefield,Whitefield,44,173.35,260.02,Friday,1,0,3
+2023-12-03 15:14:53,HSR Layout,Indiranagar,21,297.57,357.08,Sunday,0,1,12
+2022-09-26 01:21:46,MG Road,Indiranagar,33,241.43,313.86,Monday,1,0,9
+2022-02-25 12:08:20,MG Road,HSR Layout,19,145.57,145.57,Friday,1,0,2
+2022-04-19 18:04:19,Indiranagar,MG Road,14,264.57,396.86,Tuesday,1,0,4
+2023-09-04 00:31:33,Whitefield,Whitefield,19,162.91,211.78,Monday,1,0,9
+2023-04-26 20:56:05,Whitefield,Indiranagar,48,123.74,160.86,Wednesday,1,0,4
+2022-05-29 04:34:28,HSR Layout,HSR Layout,24,154.77,185.72,Sunday,0,1,5
+2023-04-06 06:01:01,HSR Layout,Indiranagar,15,198.95,258.63,Thursday,1,0,4
+2023-05-12 04:21:19,Koramangala,Koramangala,15,277.43,277.43,Friday,1,0,5
+2023-01-25 14:30:36,HSR Layout,MG Road,23,264.81,344.25,Wednesday,1,0,1
+2021-12-10 11:17:54,MG Road,Koramangala,27,146.24,146.24,Friday,1,0,12
+2022-08-04 11:58:12,Whitefield,MG Road,15,253.4,253.4,Thursday,1,0,8
+2022-06-13 04:47:55,MG Road,Indiranagar,20,190.47,190.47,Monday,1,0,6
+2023-07-30 01:17:45,Koramangala,HSR Layout,30,265.1,413.56,Sunday,0,1,7
+2021-05-04 22:24:16,MG Road,HSR Layout,12,185.84,185.84,Tuesday,1,0,5
+2021-01-01 12:08:07,Koramangala,MG Road,17,244.23,317.5,Friday,1,0,1
+2023-12-02 04:01:50,Indiranagar,Koramangala,11,160.55,192.66,Saturday,0,1,12
+2021-12-01 12:45:50,Whitefield,Indiranagar,7,262.83,262.83,Wednesday,1,0,12
+2021-02-15 05:45:56,MG Road,Whitefield,29,238.09,238.09,Monday,1,0,2
+2021-11-10 09:28:48,HSR Layout,Indiranagar,40,293.36,572.05,Wednesday,1,0,11
+2022-02-25 19:21:49,Indiranagar,MG Road,29,240.51,468.99,Friday,1,0,2
+2021-08-07 06:08:22,Whitefield,MG Road,33,150.94,235.47,Saturday,0,1,8
+2022-12-15 10:45:56,MG Road,Koramangala,25,211.53,274.99,Thursday,1,0,12
+2023-03-08 12:48:43,Koramangala,MG Road,48,186.94,243.02,Wednesday,1,0,3
+2023-10-21 15:43:51,Indiranagar,MG Road,3,198.46,309.6,Saturday,0,1,10
+2021-02-21 17:49:45,Koramangala,HSR Layout,19,215.28,335.84,Sunday,0,1,2
+2021-09-10 02:33:46,Koramangala,MG Road,22,171.42,171.42,Friday,1,0,9
+2022-09-21 09:53:59,Koramangala,MG Road,41,166.09,249.13,Wednesday,1,0,9
+2022-12-17 11:33:40,Whitefield,HSR Layout,25,185.4,289.22,Saturday,0,1,12
+2021-05-20 15:27:27,Koramangala,Koramangala,29,236.21,307.07,Thursday,1,0,5
+2021-02-23 02:32:50,MG Road,MG Road,1,234.35,304.66,Tuesday,1,0,2
+2021-01-31 14:41:26,Koramangala,Indiranagar,41,204.14,244.97,Sunday,0,1,1
+2022-03-13 05:25:38,Whitefield,HSR Layout,34,262.43,409.39,Sunday,0,1,3
+2023-04-07 13:03:30,HSR Layout,Indiranagar,7,110.99,144.29,Friday,1,0,4
+2023-10-04 04:37:31,Whitefield,Indiranagar,44,120.4,156.52,Wednesday,1,0,10
+2023-09-18 09:38:58,MG Road,MG Road,38,107.94,210.48,Monday,1,0,9
+2023-12-21 01:01:26,HSR Layout,Indiranagar,47,256.14,256.14,Thursday,1,0,12
+2021-10-07 22:01:22,Whitefield,HSR Layout,25,284.67,284.67,Thursday,1,0,10
+2021-07-18 09:16:38,HSR Layout,Whitefield,40,170.1,204.12,Sunday,0,1,7
+2021-04-06 09:19:07,HSR Layout,Whitefield,8,217.94,424.98,Tuesday,1,0,4
+2022-12-28 05:08:45,MG Road,HSR Layout,17,237.03,308.14,Wednesday,1,0,12
+2022-11-19 19:04:30,Whitefield,Whitefield,27,179.98,215.98,Saturday,0,1,11
+2023-02-13 19:27:55,Indiranagar,Koramangala,2,249.41,486.35,Monday,1,0,2
+2023-01-06 06:10:09,Whitefield,MG Road,5,105.84,137.59,Friday,1,0,1
+2023-02-04 12:00:44,Indiranagar,MG Road,38,144.08,172.9,Saturday,0,1,2
+2021-04-11 21:09:32,HSR Layout,Whitefield,41,266.28,319.54,Sunday,0,1,4
+2021-11-08 10:52:10,Indiranagar,Whitefield,39,182.96,237.85,Monday,1,0,11
+2021-04-03 01:36:03,MG Road,Koramangala,29,237.87,285.44,Saturday,0,1,4
+2021-04-02 18:50:35,Whitefield,HSR Layout,33,167.68,326.98,Friday,1,0,4
+2021-06-30 00:41:08,Koramangala,HSR Layout,4,206.3,206.3,Wednesday,1,0,6
+2023-01-05 22:09:35,MG Road,HSR Layout,19,226.05,293.87,Thursday,1,0,1
+2022-03-22 14:47:33,HSR Layout,Indiranagar,45,227.07,295.19,Tuesday,1,0,3
+2022-04-07 21:21:01,MG Road,Koramangala,43,276.72,359.74,Thursday,1,0,4
+2022-01-16 07:55:14,Koramangala,MG Road,18,289.1,451.0,Sunday,0,1,1
+2023-05-17 19:07:44,Koramangala,Whitefield,37,138.35,207.52,Wednesday,1,0,5
+2023-09-11 03:49:19,HSR Layout,Whitefield,45,128.73,128.73,Monday,1,0,9
+2021-01-04 18:13:04,Whitefield,Koramangala,8,263.56,513.94,Monday,1,0,1
+2023-06-25 21:18:39,Indiranagar,HSR Layout,32,264.72,412.96,Sunday,0,1,6
+2023-01-31 20:59:58,HSR Layout,HSR Layout,48,155.85,155.85,Tuesday,1,0,1
+2023-10-08 17:08:53,MG Road,HSR Layout,47,168.92,263.52,Sunday,0,1,10
+2022-05-06 19:05:40,Indiranagar,Indiranagar,20,260.53,390.79,Friday,1,0,5
+2023-02-23 19:04:08,HSR Layout,Indiranagar,7,237.72,356.58,Thursday,1,0,2
+2023-02-22 03:06:17,Indiranagar,Indiranagar,22,115.78,150.51,Wednesday,1,0,2
+2022-01-04 19:40:33,Indiranagar,Koramangala,15,263.81,395.72,Tuesday,1,0,1
+2021-05-09 13:06:43,Whitefield,Koramangala,41,210.0,327.6,Sunday,0,1,5
+2023-08-13 14:43:08,Indiranagar,HSR Layout,37,295.56,461.07,Sunday,0,1,8
+2023-02-13 13:09:17,MG Road,HSR Layout,22,248.82,323.47,Monday,1,0,2
+2021-10-03 09:13:36,HSR Layout,Whitefield,14,114.0,136.8,Sunday,0,1,10
+2023-10-30 13:18:40,Whitefield,MG Road,21,168.43,218.96,Monday,1,0,10
+2021-10-22 18:38:25,MG Road,Indiranagar,39,122.78,184.17,Friday,1,0,10
+2021-03-08 18:52:53,HSR Layout,Indiranagar,27,123.09,240.03,Monday,1,0,3
+2021-02-18 11:03:39,MG Road,HSR Layout,27,151.31,151.31,Thursday,1,0,2
+2022-06-18 02:08:01,HSR Layout,Indiranagar,46,184.82,221.78,Saturday,0,1,6
+2021-06-15 20:23:06,Indiranagar,Koramangala,34,151.79,151.79,Tuesday,1,0,6
+2021-11-11 14:15:24,Indiranagar,Indiranagar,41,238.78,238.78,Thursday,1,0,11
+2022-10-14 08:44:16,HSR Layout,MG Road,42,272.82,409.23,Friday,1,0,10
+2022-02-06 12:03:56,Koramangala,Whitefield,30,286.95,447.64,Sunday,0,1,2
+2021-03-02 04:39:31,MG Road,Koramangala,8,101.63,101.63,Tuesday,1,0,3
+2021-09-20 10:30:28,Indiranagar,MG Road,36,252.11,252.11,Monday,1,0,9
+2021-11-09 18:59:47,MG Road,HSR Layout,44,265.9,518.5,Tuesday,1,0,11
+2021-05-21 13:15:24,Koramangala,Indiranagar,37,297.39,297.39,Friday,1,0,5
+2021-11-27 07:54:33,Indiranagar,HSR Layout,21,151.42,181.7,Saturday,0,1,11
+2022-02-15 10:04:33,MG Road,Whitefield,23,133.15,133.15,Tuesday,1,0,2
+2021-07-21 07:42:59,Koramangala,Koramangala,34,245.59,478.9,Wednesday,1,0,7
+2023-09-08 03:08:54,HSR Layout,Indiranagar,15,287.45,373.69,Friday,1,0,9
+2022-02-10 04:25:44,Indiranagar,Koramangala,35,200.49,200.49,Thursday,1,0,2
+2023-03-31 16:01:39,Indiranagar,Indiranagar,15,199.74,259.66,Friday,1,0,3
+2023-12-06 00:19:35,Koramangala,HSR Layout,5,262.97,341.86,Wednesday,1,0,12
+2023-06-12 00:48:05,MG Road,Koramangala,39,127.68,127.68,Monday,1,0,6
+2023-09-06 04:58:22,Whitefield,Whitefield,36,122.23,158.9,Wednesday,1,0,9
+2021-03-03 05:03:21,MG Road,Koramangala,23,147.93,147.93,Wednesday,1,0,3
+2021-02-11 01:59:06,Indiranagar,HSR Layout,1,274.38,356.69,Thursday,1,0,2
+2021-05-15 21:18:19,Koramangala,Indiranagar,29,145.64,174.77,Saturday,0,1,5
+2023-10-22 19:41:13,Whitefield,HSR Layout,8,252.03,302.44,Sunday,0,1,10
+2021-05-10 12:28:55,MG Road,HSR Layout,15,186.75,242.78,Monday,1,0,5
+2023-10-09 04:24:47,Whitefield,Indiranagar,17,227.98,296.37,Monday,1,0,10
+2022-06-21 02:14:58,Koramangala,Whitefield,36,224.36,291.67,Tuesday,1,0,6
+2022-01-12 10:27:01,Koramangala,HSR Layout,17,252.72,328.54,Wednesday,1,0,1
+2022-04-30 22:19:36,Koramangala,MG Road,47,224.3,269.16,Saturday,0,1,4
+2022-05-06 09:20:16,HSR Layout,Indiranagar,4,241.68,471.28,Friday,1,0,5
+2021-09-21 10:18:54,Whitefield,Indiranagar,4,142.97,185.86,Tuesday,1,0,9
+2021-07-31 15:04:05,HSR Layout,Indiranagar,14,225.38,270.46,Saturday,0,1,7
+2021-01-28 10:34:36,Koramangala,MG Road,24,281.02,365.33,Thursday,1,0,1
+2022-05-17 09:44:15,HSR Layout,Whitefield,48,231.82,452.05,Tuesday,1,0,5
+2022-12-23 18:44:09,Whitefield,MG Road,40,231.42,347.13,Friday,1,0,12
+2022-06-21 18:18:12,MG Road,Whitefield,1,226.05,339.08,Tuesday,1,0,6
+2021-07-23 09:09:32,HSR Layout,Koramangala,50,205.8,401.31,Friday,1,0,7
+2022-09-26 01:05:37,MG Road,Indiranagar,35,172.42,172.42,Monday,1,0,9
+2021-09-28 20:30:55,MG Road,HSR Layout,47,101.87,132.43,Tuesday,1,0,9
+2022-07-25 00:33:01,Koramangala,HSR Layout,48,180.2,234.26,Monday,1,0,7
+2023-02-06 14:11:01,Whitefield,Indiranagar,24,169.51,220.36,Monday,1,0,2
+2021-04-25 06:41:01,Koramangala,HSR Layout,31,188.5,294.06,Sunday,0,1,4
+2022-08-16 20:26:40,Indiranagar,Whitefield,28,193.77,251.9,Tuesday,1,0,8
+2023-08-17 11:02:55,MG Road,MG Road,31,204.36,265.67,Thursday,1,0,8
+2022-08-24 17:56:59,Koramangala,Koramangala,4,267.1,400.65,Wednesday,1,0,8
+2022-06-13 10:05:33,Whitefield,HSR Layout,14,134.49,174.84,Monday,1,0,6
+2023-02-13 16:55:23,Whitefield,Koramangala,21,149.1,149.1,Monday,1,0,2
+2023-12-27 06:27:50,Indiranagar,Koramangala,40,133.07,172.99,Wednesday,1,0,12
+2021-01-26 06:31:47,Indiranagar,MG Road,9,112.09,145.72,Tuesday,1,0,1
+2023-08-23 18:15:30,Indiranagar,Whitefield,44,232.79,349.19,Wednesday,1,0,8
+2023-03-18 08:10:43,Whitefield,Indiranagar,42,153.74,184.49,Saturday,0,1,3
+2021-01-06 14:13:10,Indiranagar,HSR Layout,29,262.47,262.47,Wednesday,1,0,1
+2023-04-21 18:25:46,Koramangala,HSR Layout,22,110.79,216.04,Friday,1,0,4
+2022-07-22 13:11:42,Indiranagar,HSR Layout,25,265.22,344.79,Friday,1,0,7
+2023-08-14 01:50:00,Whitefield,MG Road,25,271.12,352.46,Monday,1,0,8
+2023-05-30 12:06:07,Koramangala,MG Road,36,291.27,378.65,Tuesday,1,0,5
+2022-04-11 15:39:20,Indiranagar,HSR Layout,4,286.08,371.9,Monday,1,0,4
+2023-10-24 20:26:59,Koramangala,Indiranagar,41,224.25,291.53,Tuesday,1,0,10
+2022-04-17 06:40:23,Indiranagar,MG Road,36,203.63,317.66,Sunday,0,1,4
+2022-12-20 06:18:23,Indiranagar,Whitefield,31,146.93,191.01,Tuesday,1,0,12
+2023-09-08 14:38:58,Indiranagar,HSR Layout,20,153.25,153.25,Friday,1,0,9
+2023-05-31 20:12:21,Indiranagar,Koramangala,35,183.1,238.03,Wednesday,1,0,5
+2022-04-07 04:44:11,Indiranagar,Whitefield,20,169.18,219.93,Thursday,1,0,4
+2022-01-07 05:29:43,MG Road,Indiranagar,25,136.79,177.83,Friday,1,0,1
+2023-02-16 11:28:16,Indiranagar,Whitefield,6,257.09,257.09,Thursday,1,0,2
+2023-10-18 07:38:14,MG Road,Indiranagar,33,128.09,249.78,Wednesday,1,0,10
+2021-07-06 15:14:35,Koramangala,Indiranagar,47,140.2,140.2,Tuesday,1,0,7
+2023-07-07 19:04:19,MG Road,Koramangala,2,156.85,305.86,Friday,1,0,7
+2023-03-01 03:47:34,Koramangala,MG Road,48,145.2,145.2,Wednesday,1,0,3
+2021-02-27 14:59:33,Indiranagar,Indiranagar,37,201.29,241.55,Saturday,0,1,2
+2023-11-14 23:25:27,Koramangala,Indiranagar,11,266.39,346.31,Tuesday,1,0,11
+2022-01-23 01:28:53,MG Road,Indiranagar,33,170.45,204.54,Sunday,0,1,1
+2023-05-22 17:35:21,Koramangala,Whitefield,48,289.91,434.87,Monday,1,0,5
+2021-01-06 04:36:09,Indiranagar,Koramangala,9,127.16,165.31,Wednesday,1,0,1
+2021-08-04 00:00:14,Koramangala,MG Road,16,231.09,231.09,Wednesday,1,0,8
+2023-06-20 21:11:02,Koramangala,Whitefield,39,264.1,343.33,Tuesday,1,0,6
+2022-06-04 22:31:31,Whitefield,Whitefield,20,192.23,230.68,Saturday,0,1,6
+2023-03-21 03:58:13,Koramangala,Indiranagar,49,150.96,196.25,Tuesday,1,0,3
+2023-07-30 09:00:57,Koramangala,MG Road,9,227.9,273.48,Sunday,0,1,7
+2021-02-09 01:03:16,MG Road,MG Road,17,102.63,133.42,Tuesday,1,0,2
+2022-08-17 17:33:45,HSR Layout,HSR Layout,49,125.8,188.7,Wednesday,1,0,8
+2023-02-19 07:41:21,Koramangala,MG Road,2,187.02,224.42,Sunday,0,1,2
+2022-02-01 23:55:14,Indiranagar,MG Road,3,298.23,387.7,Tuesday,1,0,2
+2023-01-20 06:23:24,HSR Layout,Koramangala,28,195.56,195.56,Friday,1,0,1
+2021-05-15 10:50:39,Whitefield,MG Road,3,118.39,142.07,Saturday,0,1,5
+2021-07-25 10:59:06,Indiranagar,MG Road,35,127.0,198.12,Sunday,0,1,7
+2022-06-08 16:19:28,MG Road,Indiranagar,47,128.38,128.38,Wednesday,1,0,6
+2021-08-05 18:02:37,Koramangala,HSR Layout,7,283.42,552.67,Thursday,1,0,8
+2021-12-21 18:23:11,Whitefield,Koramangala,43,264.16,515.11,Tuesday,1,0,12
+2023-08-16 04:19:22,Indiranagar,Koramangala,39,166.59,216.57,Wednesday,1,0,8
+2022-08-15 07:01:55,Indiranagar,Indiranagar,44,151.66,295.74,Monday,1,0,8
+2022-04-17 07:58:33,Whitefield,Koramangala,22,106.52,127.82,Sunday,0,1,4
+2021-06-09 01:48:04,Whitefield,Indiranagar,25,237.35,237.35,Wednesday,1,0,6
+2021-11-13 18:05:01,Whitefield,HSR Layout,45,240.88,289.06,Saturday,0,1,11
+2023-02-14 09:27:51,HSR Layout,HSR Layout,13,290.18,565.85,Tuesday,1,0,2
+2023-09-13 06:18:09,MG Road,Indiranagar,20,216.41,216.41,Wednesday,1,0,9
+2022-01-24 10:04:56,Whitefield,Whitefield,10,287.82,287.82,Monday,1,0,1
+2023-12-24 06:02:18,Koramangala,Koramangala,17,208.82,250.58,Sunday,0,1,12
+2022-05-05 12:46:08,MG Road,Whitefield,17,161.47,209.91,Thursday,1,0,5
+2022-02-15 20:34:37,MG Road,HSR Layout,40,127.54,165.8,Tuesday,1,0,2
+2021-01-02 09:27:13,Indiranagar,Koramangala,20,219.46,342.36,Saturday,0,1,1
+2023-06-16 01:29:01,Whitefield,Koramangala,41,272.19,272.19,Friday,1,0,6
+2023-09-18 02:28:40,Whitefield,MG Road,5,237.41,308.63,Monday,1,0,9
+2023-02-05 22:55:14,MG Road,Whitefield,29,102.98,123.58,Sunday,0,1,2
+2022-04-06 08:21:28,Indiranagar,Indiranagar,23,152.02,228.03,Wednesday,1,0,4
+2022-04-17 19:52:16,HSR Layout,HSR Layout,48,142.75,171.3,Sunday,0,1,4
+2021-10-27 06:06:50,Koramangala,MG Road,21,122.9,122.9,Wednesday,1,0,10
+2021-09-26 21:13:49,HSR Layout,Koramangala,32,106.36,165.92,Sunday,0,1,9
+2021-07-05 03:47:07,MG Road,MG Road,41,240.89,313.16,Monday,1,0,7
+2023-05-19 15:01:24,Whitefield,MG Road,33,167.69,167.69,Friday,1,0,5
+2022-08-12 08:26:45,Indiranagar,Koramangala,32,141.03,211.55,Friday,1,0,8
+2021-09-13 06:25:48,MG Road,MG Road,3,224.98,224.98,Monday,1,0,9
+2023-07-05 21:31:45,Indiranagar,Koramangala,2,194.75,253.18,Wednesday,1,0,7
+2022-10-31 08:10:31,Whitefield,MG Road,21,296.41,444.62,Monday,1,0,10
+2023-09-24 17:00:16,Whitefield,HSR Layout,18,237.87,285.44,Sunday,0,1,9
+2021-05-04 00:21:01,Koramangala,Indiranagar,3,232.79,302.63,Tuesday,1,0,5
+2022-01-15 03:37:49,MG Road,Koramangala,6,271.92,326.3,Saturday,0,1,1
+2022-09-24 00:45:26,Whitefield,Indiranagar,33,133.5,160.2,Saturday,0,1,9
+2023-12-09 07:24:33,MG Road,HSR Layout,35,150.88,235.37,Saturday,0,1,12
+2022-04-17 14:30:29,Whitefield,Indiranagar,49,122.72,147.26,Sunday,0,1,4
+2021-08-09 11:42:46,MG Road,Indiranagar,18,194.54,194.54,Monday,1,0,8
+2022-01-29 21:43:43,HSR Layout,HSR Layout,2,218.42,262.1,Saturday,0,1,1
+2023-11-04 10:53:35,Koramangala,Whitefield,13,216.36,337.52,Saturday,0,1,11
+2021-01-21 10:30:24,Koramangala,MG Road,46,191.97,249.56,Thursday,1,0,1
+2021-01-03 15:36:07,HSR Layout,HSR Layout,25,107.45,167.62,Sunday,0,1,1
+2022-03-03 06:15:47,Indiranagar,MG Road,38,260.75,338.98,Thursday,1,0,3
+2021-02-09 09:36:47,Indiranagar,Whitefield,30,158.21,308.51,Tuesday,1,0,2
+2022-10-31 13:45:56,Koramangala,Whitefield,15,273.91,356.08,Monday,1,0,10
+2021-03-05 22:47:46,Koramangala,Whitefield,10,116.37,151.28,Friday,1,0,3
+2022-05-19 21:52:49,HSR Layout,MG Road,29,194.7,194.7,Thursday,1,0,5
+2023-07-21 08:16:19,HSR Layout,HSR Layout,35,248.5,372.75,Friday,1,0,7
+2022-04-10 01:25:31,Koramangala,HSR Layout,40,146.56,228.63,Sunday,0,1,4
+2023-09-26 00:18:32,Whitefield,Indiranagar,48,284.18,369.43,Tuesday,1,0,9
+2023-05-11 10:25:41,Whitefield,Whitefield,12,226.42,226.42,Thursday,1,0,5
+2022-07-19 16:47:47,MG Road,MG Road,35,133.51,173.56,Tuesday,1,0,7
+2021-04-11 11:29:34,MG Road,HSR Layout,32,280.49,437.56,Sunday,0,1,4
+2022-08-03 07:24:57,Koramangala,Whitefield,10,221.03,331.55,Wednesday,1,0,8
+2023-01-19 12:13:02,Koramangala,Koramangala,35,139.26,181.04,Thursday,1,0,1
+2023-06-27 21:21:41,Koramangala,Whitefield,1,132.99,132.99,Tuesday,1,0,6
+2022-08-31 04:38:36,Whitefield,Whitefield,31,287.63,373.92,Wednesday,1,0,8
+2023-11-03 03:30:38,Koramangala,Whitefield,7,117.05,117.05,Friday,1,0,11
+2021-07-29 05:08:57,HSR Layout,Koramangala,43,295.85,384.61,Thursday,1,0,7
+2023-06-30 00:43:38,Koramangala,Indiranagar,33,256.05,256.05,Friday,1,0,6
+2022-05-10 17:12:29,Indiranagar,Indiranagar,28,217.65,424.42,Tuesday,1,0,5
+2021-12-08 17:47:38,Whitefield,HSR Layout,46,252.03,491.46,Wednesday,1,0,12
+2021-12-16 03:46:16,HSR Layout,HSR Layout,29,164.24,213.51,Thursday,1,0,12
+2023-06-09 22:38:53,Indiranagar,MG Road,15,164.83,214.28,Friday,1,0,6
+2023-09-14 23:43:54,Whitefield,Koramangala,29,111.56,145.03,Thursday,1,0,9
+2022-11-04 16:48:52,HSR Layout,Indiranagar,17,277.41,277.41,Friday,1,0,11
+2021-01-20 01:39:00,MG Road,Whitefield,42,222.19,288.85,Wednesday,1,0,1
+2022-10-01 11:26:38,Whitefield,Koramangala,36,238.02,285.62,Saturday,0,1,10
+2022-08-25 15:50:10,Koramangala,MG Road,44,147.95,192.33,Thursday,1,0,8
+2023-06-24 12:14:27,Whitefield,Koramangala,22,227.19,354.42,Saturday,0,1,6
+2021-04-18 07:14:16,Indiranagar,Koramangala,9,297.94,357.53,Sunday,0,1,4
+2023-08-31 19:10:37,Koramangala,Indiranagar,36,205.45,308.17,Thursday,1,0,8
+2022-06-02 13:47:52,HSR Layout,HSR Layout,8,184.1,239.33,Thursday,1,0,6
+2023-07-26 11:09:13,Indiranagar,Whitefield,16,103.55,103.55,Wednesday,1,0,7
+2021-10-26 11:07:50,Koramangala,Indiranagar,48,133.09,133.09,Tuesday,1,0,10
+2022-02-15 23:24:29,HSR Layout,Whitefield,8,109.06,141.78,Tuesday,1,0,2
+2021-09-04 04:31:00,Whitefield,Koramangala,39,166.74,200.09,Saturday,0,1,9
+2021-08-11 20:21:47,HSR Layout,Koramangala,7,235.29,305.88,Wednesday,1,0,8
+2022-12-20 12:59:57,MG Road,Indiranagar,27,265.21,265.21,Tuesday,1,0,12
+2021-04-29 04:17:54,MG Road,Indiranagar,4,280.87,365.13,Thursday,1,0,4
+2022-04-24 04:05:03,Indiranagar,HSR Layout,39,124.34,193.97,Sunday,0,1,4
+2021-07-27 00:31:11,MG Road,HSR Layout,1,121.3,121.3,Tuesday,1,0,7
+2021-01-14 11:04:18,MG Road,Indiranagar,39,215.48,280.12,Thursday,1,0,1
+2021-11-13 03:49:12,Koramangala,Indiranagar,33,193.68,302.14,Saturday,0,1,11
+2023-03-23 14:44:26,Indiranagar,HSR Layout,22,188.66,188.66,Thursday,1,0,3
+2021-12-06 17:05:19,Whitefield,Koramangala,12,202.08,303.12,Monday,1,0,12
+2021-02-09 02:23:59,HSR Layout,Indiranagar,14,137.61,137.61,Tuesday,1,0,2
+2021-07-28 13:50:52,MG Road,MG Road,3,122.32,122.32,Wednesday,1,0,7
+2021-04-23 14:01:55,HSR Layout,Koramangala,46,299.7,389.61,Friday,1,0,4
+2022-06-12 22:16:10,Indiranagar,Indiranagar,7,212.68,255.22,Sunday,0,1,6
+2023-10-18 06:37:01,HSR Layout,MG Road,48,232.2,301.86,Wednesday,1,0,10
+2022-08-12 11:50:40,Whitefield,HSR Layout,5,160.35,208.46,Friday,1,0,8
+2022-06-25 00:02:15,HSR Layout,Indiranagar,17,154.23,240.6,Saturday,0,1,6
+2022-12-31 05:27:43,Whitefield,Koramangala,49,236.53,368.99,Saturday,0,1,12
+2021-08-22 00:17:45,Koramangala,Koramangala,28,215.93,336.85,Sunday,0,1,8
+2021-08-07 15:38:29,MG Road,Whitefield,33,248.59,298.31,Saturday,0,1,8
+2021-01-18 04:34:30,Koramangala,Indiranagar,45,244.19,244.19,Monday,1,0,1
+2021-08-18 08:48:36,HSR Layout,HSR Layout,43,150.88,226.32,Wednesday,1,0,8
+2022-03-26 04:14:31,Indiranagar,Indiranagar,30,189.73,295.98,Saturday,0,1,3
+2021-11-27 10:37:58,Whitefield,MG Road,2,166.39,259.57,Saturday,0,1,11
+2022-02-11 23:57:09,Koramangala,Koramangala,13,150.66,150.66,Friday,1,0,2
+2022-07-03 02:48:17,Koramangala,MG Road,26,116.87,182.32,Sunday,0,1,7
+2023-08-24 05:45:37,MG Road,HSR Layout,42,287.74,287.74,Thursday,1,0,8
+2023-02-09 19:13:44,Koramangala,Indiranagar,3,266.9,520.45,Thursday,1,0,2
+2022-05-19 02:45:38,Whitefield,Indiranagar,18,211.09,211.09,Thursday,1,0,5
+2023-08-25 07:20:30,Koramangala,MG Road,46,199.64,389.3,Friday,1,0,8
+2023-11-24 03:05:26,MG Road,Indiranagar,7,144.49,187.84,Friday,1,0,11
+2022-08-12 09:28:55,Koramangala,HSR Layout,9,196.38,382.94,Friday,1,0,8
+2023-04-14 11:39:26,HSR Layout,Indiranagar,12,251.11,251.11,Friday,1,0,4
+2021-08-23 00:41:23,Koramangala,Koramangala,18,175.82,175.82,Monday,1,0,8
+2022-10-31 09:33:18,Indiranagar,HSR Layout,49,145.71,284.13,Monday,1,0,10
+2023-09-26 03:22:09,Indiranagar,MG Road,15,283.52,368.58,Tuesday,1,0,9
+2023-07-24 04:07:03,Indiranagar,Indiranagar,9,155.87,155.87,Monday,1,0,7
+2021-12-18 16:51:39,MG Road,Whitefield,27,188.86,294.62,Saturday,0,1,12
+2022-12-09 23:02:41,Indiranagar,Koramangala,19,173.3,173.3,Friday,1,0,12
+2023-06-17 06:47:08,Whitefield,Koramangala,6,134.05,209.12,Saturday,0,1,6
+2021-08-22 13:11:00,Koramangala,Indiranagar,38,287.69,448.8,Sunday,0,1,8
+2023-12-04 11:03:20,MG Road,Indiranagar,20,282.91,367.78,Monday,1,0,12
+2021-08-22 03:53:38,Whitefield,Indiranagar,37,291.88,455.33,Sunday,0,1,8
+2021-11-30 18:04:11,Whitefield,Koramangala,15,210.21,315.31,Tuesday,1,0,11
+2021-07-10 20:57:55,HSR Layout,Whitefield,23,107.31,167.4,Saturday,0,1,7
+2021-08-06 06:46:22,MG Road,MG Road,19,207.63,269.92,Friday,1,0,8
+2021-08-14 16:51:09,MG Road,MG Road,33,152.46,182.95,Saturday,0,1,8
+2021-11-29 03:16:42,Koramangala,Indiranagar,2,251.95,251.95,Monday,1,0,11
+2023-10-28 15:48:13,Indiranagar,Whitefield,46,248.51,387.68,Saturday,0,1,10
+2022-10-05 07:44:46,MG Road,HSR Layout,1,117.29,228.72,Wednesday,1,0,10
+2021-12-12 03:44:43,Indiranagar,Indiranagar,40,254.37,396.82,Sunday,0,1,12
+2023-11-26 21:08:51,HSR Layout,Whitefield,11,249.53,389.27,Sunday,0,1,11
+2023-09-07 19:57:55,MG Road,Indiranagar,29,242.78,364.17,Thursday,1,0,9
+2021-05-01 23:48:28,Koramangala,HSR Layout,2,253.87,304.64,Saturday,0,1,5
+2023-04-08 12:13:54,Whitefield,Koramangala,21,248.34,298.01,Saturday,0,1,4
+2023-04-23 09:35:28,HSR Layout,Whitefield,43,266.57,319.88,Sunday,0,1,4
+2022-08-20 17:47:18,Whitefield,Indiranagar,48,197.0,236.4,Saturday,0,1,8
+2022-04-27 05:09:46,Koramangala,Whitefield,18,127.44,127.44,Wednesday,1,0,4
+2023-05-19 01:37:56,Indiranagar,Whitefield,29,157.37,157.37,Friday,1,0,5
+2022-05-17 17:34:25,Whitefield,Whitefield,40,186.6,363.87,Tuesday,1,0,5
+2021-05-10 02:29:11,HSR Layout,Whitefield,29,113.03,146.94,Monday,1,0,5
+2021-06-15 08:44:14,Koramangala,HSR Layout,44,132.49,198.74,Tuesday,1,0,6
+2021-10-15 04:03:27,Koramangala,Whitefield,8,260.07,260.07,Friday,1,0,10
+2022-04-13 19:04:27,HSR Layout,Whitefield,10,149.61,291.74,Wednesday,1,0,4
+2023-12-03 22:04:48,Indiranagar,Koramangala,44,175.74,274.15,Sunday,0,1,12
+2022-12-21 12:47:35,Koramangala,Whitefield,50,289.73,289.73,Wednesday,1,0,12
+2021-01-08 09:55:35,MG Road,MG Road,47,192.97,376.29,Friday,1,0,1
+2023-04-30 09:09:26,Indiranagar,Koramangala,35,204.39,245.27,Sunday,0,1,4
+2023-03-20 18:06:05,Indiranagar,Koramangala,35,173.71,260.56,Monday,1,0,3
+2022-11-23 04:32:00,HSR Layout,HSR Layout,41,126.95,165.03,Wednesday,1,0,11
+2021-07-13 20:19:26,Indiranagar,Whitefield,40,147.46,191.7,Tuesday,1,0,7
+2023-02-09 15:10:37,Indiranagar,Koramangala,10,174.94,174.94,Thursday,1,0,2
+2021-03-15 02:18:12,Whitefield,HSR Layout,44,206.43,268.36,Monday,1,0,3
+2022-03-10 07:14:25,Koramangala,MG Road,26,234.85,457.96,Thursday,1,0,3
+2021-05-23 09:00:09,HSR Layout,Whitefield,19,194.98,304.17,Sunday,0,1,5
+2021-02-16 20:14:06,Indiranagar,MG Road,20,241.6,241.6,Tuesday,1,0,2
+2021-01-17 18:57:25,MG Road,Indiranagar,15,254.63,397.22,Sunday,0,1,1
+2021-07-07 21:19:36,HSR Layout,MG Road,10,102.03,132.64,Wednesday,1,0,7
+2022-09-02 01:25:49,Whitefield,HSR Layout,7,133.3,133.3,Friday,1,0,9
+2023-06-23 12:44:48,HSR Layout,Koramangala,38,101.05,131.37,Friday,1,0,6
+2023-08-31 06:26:11,Indiranagar,Koramangala,36,163.3,163.3,Thursday,1,0,8
+2022-07-27 10:01:58,Whitefield,HSR Layout,34,154.49,154.49,Wednesday,1,0,7
+2023-11-01 10:26:37,Whitefield,MG Road,17,104.82,136.27,Wednesday,1,0,11
+2022-06-26 05:58:13,Indiranagar,Koramangala,15,114.03,136.84,Sunday,0,1,6
+2021-09-08 00:13:16,MG Road,HSR Layout,20,177.63,177.63,Wednesday,1,0,9
+2023-11-28 05:40:53,Koramangala,MG Road,25,272.65,272.65,Tuesday,1,0,11
+2023-08-29 19:50:19,Whitefield,HSR Layout,45,192.08,288.12,Tuesday,1,0,8
+2021-03-11 23:44:48,Indiranagar,Whitefield,36,234.27,234.27,Thursday,1,0,3
+2022-03-28 15:19:30,Koramangala,Indiranagar,1,291.29,291.29,Monday,1,0,3
+2023-04-13 05:23:48,Koramangala,HSR Layout,50,250.37,250.37,Thursday,1,0,4
+2022-06-25 08:38:12,Indiranagar,Indiranagar,40,273.25,426.27,Saturday,0,1,6
+2021-08-06 14:53:32,MG Road,Indiranagar,24,141.62,184.11,Friday,1,0,8
+2021-04-03 01:00:39,Whitefield,HSR Layout,39,266.39,319.67,Saturday,0,1,4
+2021-10-09 02:15:07,MG Road,Koramangala,36,232.43,362.59,Saturday,0,1,10
+2022-11-30 06:37:38,Indiranagar,Whitefield,16,204.1,204.1,Wednesday,1,0,11
+2023-01-06 06:10:58,Indiranagar,HSR Layout,10,221.12,221.12,Friday,1,0,1
+2022-05-25 11:33:14,HSR Layout,Indiranagar,36,180.1,180.1,Wednesday,1,0,5
+2021-03-10 20:38:14,Koramangala,Indiranagar,50,117.99,117.99,Wednesday,1,0,3
+2023-11-08 08:21:32,MG Road,Whitefield,34,277.95,542.0,Wednesday,1,0,11
+2022-07-28 03:56:24,Whitefield,Indiranagar,42,176.54,176.54,Thursday,1,0,7
+2022-06-19 11:13:03,Indiranagar,Indiranagar,4,130.6,156.72,Sunday,0,1,6
+2022-07-16 15:59:42,Indiranagar,Whitefield,28,137.86,165.43,Saturday,0,1,7
+2023-10-01 16:21:07,MG Road,Koramangala,33,181.45,217.74,Sunday,0,1,10
+2023-08-21 20:56:13,Whitefield,Indiranagar,15,189.74,189.74,Monday,1,0,8
+2023-05-24 13:56:14,Whitefield,HSR Layout,26,225.58,225.58,Wednesday,1,0,5
+2022-05-22 15:42:57,Indiranagar,Indiranagar,46,213.86,256.63,Sunday,0,1,5
+2022-10-15 04:11:38,Indiranagar,MG Road,35,192.74,300.67,Saturday,0,1,10
+2022-08-20 02:34:29,Indiranagar,MG Road,47,131.98,158.38,Saturday,0,1,8
+2022-05-02 22:37:42,Whitefield,Whitefield,5,284.82,284.82,Monday,1,0,5
+2022-11-20 17:30:53,Indiranagar,MG Road,38,104.21,125.05,Sunday,0,1,11
+2023-01-23 17:42:26,Whitefield,MG Road,42,111.15,166.73,Monday,1,0,1
+2021-10-09 06:31:26,Indiranagar,Koramangala,35,157.14,245.14,Saturday,0,1,10
+2023-10-13 22:49:39,MG Road,Koramangala,48,199.58,199.58,Friday,1,0,10
+2021-05-13 21:00:29,MG Road,Indiranagar,26,196.2,196.2,Thursday,1,0,5
+2022-02-22 06:58:27,Koramangala,MG Road,10,243.82,243.82,Tuesday,1,0,2
+2022-03-19 10:55:36,HSR Layout,Whitefield,8,191.46,298.68,Saturday,0,1,3
+2022-03-02 18:37:11,Whitefield,Indiranagar,29,272.56,408.84,Wednesday,1,0,3
+2022-02-16 16:28:37,HSR Layout,HSR Layout,7,174.06,226.28,Wednesday,1,0,2
+2021-02-21 19:13:05,Indiranagar,HSR Layout,41,117.51,183.32,Sunday,0,1,2
+2021-08-08 19:01:00,Indiranagar,Whitefield,14,263.94,316.73,Sunday,0,1,8
+2023-05-23 03:13:10,MG Road,MG Road,38,137.57,137.57,Tuesday,1,0,5
+2022-01-24 20:28:54,Indiranagar,Whitefield,24,121.79,121.79,Monday,1,0,1
+2022-08-17 13:11:19,Indiranagar,Indiranagar,29,257.08,334.2,Wednesday,1,0,8
+2021-02-21 12:40:03,Koramangala,MG Road,26,159.35,248.59,Sunday,0,1,2
+2023-09-05 03:11:24,Whitefield,MG Road,33,252.71,328.52,Tuesday,1,0,9
+2021-03-19 02:41:34,HSR Layout,MG Road,9,268.18,268.18,Friday,1,0,3
+2021-06-28 15:50:42,Koramangala,Koramangala,33,212.17,275.82,Monday,1,0,6
+2023-07-15 08:48:27,Whitefield,Koramangala,50,173.7,270.97,Saturday,0,1,7
+2023-05-26 03:28:09,Koramangala,Koramangala,25,129.99,168.99,Friday,1,0,5
+2021-10-14 18:33:32,MG Road,HSR Layout,1,220.38,330.57,Thursday,1,0,10
+2023-09-14 20:41:19,Whitefield,MG Road,30,255.37,255.37,Thursday,1,0,9
+2023-02-17 14:26:42,Koramangala,HSR Layout,36,267.0,347.1,Friday,1,0,2
+2022-06-27 09:40:13,HSR Layout,Whitefield,2,228.48,342.72,Monday,1,0,6
+2022-05-20 19:52:21,MG Road,MG Road,24,240.07,360.11,Friday,1,0,5
+2021-02-16 21:49:53,Indiranagar,Indiranagar,12,115.16,115.16,Tuesday,1,0,2
+2022-07-16 23:53:57,HSR Layout,HSR Layout,49,160.92,251.04,Saturday,0,1,7
+2022-09-22 16:57:20,Koramangala,MG Road,32,236.25,307.12,Thursday,1,0,9
+2023-05-04 20:33:57,MG Road,Indiranagar,41,213.13,213.13,Thursday,1,0,5
+2022-06-08 13:31:42,HSR Layout,Whitefield,9,260.65,260.65,Wednesday,1,0,6
+2023-07-24 20:20:49,Koramangala,Indiranagar,22,136.09,176.92,Monday,1,0,7
+2021-11-17 06:29:08,Koramangala,HSR Layout,6,208.96,271.65,Wednesday,1,0,11
+2023-04-03 16:12:46,Indiranagar,Whitefield,14,130.52,130.52,Monday,1,0,4
+2023-02-14 20:40:55,MG Road,Whitefield,50,135.76,176.49,Tuesday,1,0,2
+2022-05-14 01:43:00,HSR Layout,Koramangala,6,175.65,210.78,Saturday,0,1,5
+2022-04-15 14:08:19,Whitefield,Koramangala,34,143.81,186.95,Friday,1,0,4
+2022-05-10 13:52:46,HSR Layout,Indiranagar,35,143.53,186.59,Tuesday,1,0,5
+2023-06-14 19:50:07,Whitefield,Koramangala,1,253.16,379.74,Wednesday,1,0,6
+2023-09-20 19:23:03,Indiranagar,MG Road,28,228.06,342.09,Wednesday,1,0,9
+2023-06-13 10:33:48,HSR Layout,Koramangala,26,131.93,131.93,Tuesday,1,0,6
+2022-11-14 18:53:14,Koramangala,Whitefield,8,274.54,411.81,Monday,1,0,11
+2022-05-15 10:12:29,Koramangala,Whitefield,38,204.39,318.85,Sunday,0,1,5
+2021-09-17 19:10:05,Whitefield,MG Road,15,100.15,150.23,Friday,1,0,9
+2023-12-13 05:48:06,HSR Layout,MG Road,43,174.27,174.27,Wednesday,1,0,12
+2023-03-21 01:26:37,Indiranagar,HSR Layout,39,218.29,218.29,Tuesday,1,0,3
+2021-11-09 04:50:05,Indiranagar,Koramangala,31,237.15,308.3,Tuesday,1,0,11
+2021-05-30 08:04:13,MG Road,HSR Layout,36,139.79,218.07,Sunday,0,1,5
+2022-02-12 12:43:36,Indiranagar,Indiranagar,29,168.3,201.96,Saturday,0,1,2
+2022-02-09 16:38:13,MG Road,Indiranagar,43,214.88,279.34,Wednesday,1,0,2
+2022-02-15 18:42:07,Whitefield,Koramangala,8,223.62,436.06,Tuesday,1,0,2
+2022-03-28 01:30:15,HSR Layout,HSR Layout,7,115.78,150.51,Monday,1,0,3
+2021-03-31 20:59:33,Whitefield,HSR Layout,27,201.79,262.33,Wednesday,1,0,3
+2021-07-14 10:04:56,Koramangala,Whitefield,19,126.39,126.39,Wednesday,1,0,7
+2022-07-27 04:59:04,MG Road,MG Road,50,141.88,141.88,Wednesday,1,0,7
+2022-03-21 16:28:54,MG Road,Koramangala,17,163.91,163.91,Monday,1,0,3
+2021-10-17 00:48:27,Whitefield,Whitefield,49,170.18,204.22,Sunday,0,1,10
+2023-07-06 09:54:49,HSR Layout,MG Road,24,116.6,174.9,Thursday,1,0,7
+2023-09-11 18:06:38,MG Road,HSR Layout,37,138.98,208.47,Monday,1,0,9
+2022-11-18 15:39:12,Indiranagar,HSR Layout,43,236.34,307.24,Friday,1,0,11
+2021-04-09 19:04:21,Indiranagar,Indiranagar,41,291.92,569.24,Friday,1,0,4
+2022-03-27 16:12:03,Whitefield,HSR Layout,42,247.93,297.52,Sunday,0,1,3
+2021-05-31 15:56:49,MG Road,HSR Layout,28,161.58,210.05,Monday,1,0,5
+2022-01-11 08:38:29,MG Road,HSR Layout,25,266.93,400.39,Tuesday,1,0,1
+2021-07-17 16:27:54,HSR Layout,Whitefield,25,113.11,135.73,Saturday,0,1,7
+2021-10-07 14:44:48,Whitefield,MG Road,38,188.56,188.56,Thursday,1,0,10
+2021-06-03 06:43:07,Whitefield,Indiranagar,45,227.01,295.11,Thursday,1,0,6
+2023-08-04 17:46:50,HSR Layout,Whitefield,4,257.32,385.98,Friday,1,0,8
+2023-10-04 01:18:45,HSR Layout,Whitefield,28,257.01,334.11,Wednesday,1,0,10
+2023-05-13 18:09:54,Whitefield,Indiranagar,17,204.07,318.35,Saturday,0,1,5
+2021-12-29 02:58:39,HSR Layout,Koramangala,49,219.44,219.44,Wednesday,1,0,12
+2023-12-22 17:13:21,HSR Layout,Koramangala,5,283.52,552.86,Friday,1,0,12
+2021-07-27 07:20:28,Indiranagar,Koramangala,13,152.56,228.84,Tuesday,1,0,7
+2023-02-20 19:53:31,Indiranagar,Whitefield,14,155.45,303.13,Monday,1,0,2
+2022-06-25 03:16:44,Whitefield,MG Road,14,104.87,163.6,Saturday,0,1,6
+2023-10-22 05:23:21,Koramangala,Koramangala,23,145.86,175.03,Sunday,0,1,10
+2022-07-05 04:12:26,Whitefield,HSR Layout,38,226.13,226.13,Tuesday,1,0,7
+2023-11-23 21:23:20,Whitefield,Indiranagar,26,145.31,145.31,Thursday,1,0,11
+2023-08-04 01:31:05,MG Road,HSR Layout,3,203.92,203.92,Friday,1,0,8
+2021-02-04 07:45:17,Indiranagar,Koramangala,26,248.64,484.85,Thursday,1,0,2
+2021-11-08 00:34:19,Koramangala,MG Road,20,211.36,274.77,Monday,1,0,11
+2023-03-24 21:16:53,Koramangala,Whitefield,22,135.6,135.6,Friday,1,0,3
+2022-06-04 15:12:58,Indiranagar,Indiranagar,42,271.38,423.35,Saturday,0,1,6
+2021-10-10 04:01:35,MG Road,HSR Layout,1,125.9,196.4,Sunday,0,1,10
+2022-10-03 18:56:04,Whitefield,Indiranagar,33,133.4,260.13,Monday,1,0,10
+2022-04-17 17:39:43,HSR Layout,MG Road,1,149.71,179.65,Sunday,0,1,4
+2022-11-04 12:42:29,MG Road,HSR Layout,36,129.77,168.7,Friday,1,0,11
+2023-01-23 17:01:23,HSR Layout,Whitefield,8,161.74,242.61,Monday,1,0,1
+2023-10-19 16:22:33,Indiranagar,Koramangala,12,196.17,255.02,Thursday,1,0,10
+2022-10-28 02:19:27,Koramangala,Koramangala,11,260.54,260.54,Friday,1,0,10
+2022-05-28 11:45:29,Whitefield,HSR Layout,36,220.94,344.67,Saturday,0,1,5
+2021-08-04 04:06:14,Whitefield,MG Road,48,297.7,387.01,Wednesday,1,0,8
+2023-02-12 06:33:51,MG Road,Koramangala,32,291.93,455.41,Sunday,0,1,2
+2022-02-20 04:05:25,HSR Layout,MG Road,45,193.18,301.36,Sunday,0,1,2
+2023-10-17 17:33:00,Indiranagar,Indiranagar,44,229.47,447.47,Tuesday,1,0,10
+2023-01-22 15:51:25,Koramangala,Indiranagar,45,197.35,236.82,Sunday,0,1,1
+2021-05-28 23:52:49,Whitefield,MG Road,41,119.92,155.9,Friday,1,0,5
+2023-07-08 09:26:28,MG Road,Indiranagar,26,249.76,299.71,Saturday,0,1,7
+2022-03-23 08:49:23,Indiranagar,HSR Layout,9,167.54,251.31,Wednesday,1,0,3
+2023-02-11 05:05:05,HSR Layout,Koramangala,16,135.99,212.14,Saturday,0,1,2
+2023-10-04 03:35:08,HSR Layout,Koramangala,46,247.78,322.11,Wednesday,1,0,10
+2021-06-21 00:00:34,Whitefield,Indiranagar,6,148.82,148.82,Monday,1,0,6
+2021-11-20 08:44:38,Whitefield,HSR Layout,7,286.63,343.96,Saturday,0,1,11
+2021-08-28 21:59:31,Whitefield,Koramangala,49,202.85,316.45,Saturday,0,1,8
+2022-03-27 04:40:23,MG Road,MG Road,8,288.6,346.32,Sunday,0,1,3
+2022-11-12 11:27:45,MG Road,MG Road,34,154.32,240.74,Saturday,0,1,11
+2023-01-30 13:35:53,HSR Layout,HSR Layout,21,129.84,129.84,Monday,1,0,1
+2021-07-28 11:24:31,Indiranagar,Indiranagar,31,290.11,290.11,Wednesday,1,0,7
+2023-02-23 07:23:30,MG Road,Koramangala,29,212.28,318.42,Thursday,1,0,2
+2023-09-21 20:12:44,HSR Layout,HSR Layout,2,188.15,244.6,Thursday,1,0,9
+2021-04-26 00:19:13,Koramangala,Indiranagar,22,174.64,227.03,Monday,1,0,4
+2021-07-30 13:20:32,MG Road,HSR Layout,21,145.31,145.31,Friday,1,0,7
+2023-03-15 20:16:11,Indiranagar,Indiranagar,18,100.48,100.48,Wednesday,1,0,3
+2023-11-05 04:50:56,HSR Layout,Whitefield,35,225.93,271.12,Sunday,0,1,11
+2022-06-16 04:50:45,Koramangala,MG Road,29,141.57,141.57,Thursday,1,0,6
+2021-06-29 11:54:23,Indiranagar,Whitefield,25,164.66,164.66,Tuesday,1,0,6
+2021-03-11 17:21:26,MG Road,Whitefield,42,202.71,395.28,Thursday,1,0,3
+2023-05-22 14:00:50,Whitefield,Indiranagar,28,126.56,164.53,Monday,1,0,5
+2021-05-13 00:28:43,Indiranagar,HSR Layout,21,250.91,326.18,Thursday,1,0,5
+2021-06-26 11:56:44,Koramangala,MG Road,19,106.37,127.64,Saturday,0,1,6
+2023-08-24 01:16:18,Indiranagar,HSR Layout,19,177.35,177.35,Thursday,1,0,8
+2023-10-11 04:07:36,MG Road,HSR Layout,50,129.83,168.78,Wednesday,1,0,10
+2023-04-07 10:31:45,HSR Layout,MG Road,38,208.99,271.69,Friday,1,0,4
+2023-06-05 14:39:44,Indiranagar,MG Road,13,211.73,275.25,Monday,1,0,6
+2023-11-28 01:55:22,MG Road,Koramangala,48,110.53,143.69,Tuesday,1,0,11
+2021-06-19 04:48:49,Koramangala,MG Road,37,111.4,173.78,Saturday,0,1,6
+2022-04-17 12:15:45,HSR Layout,MG Road,43,105.88,127.06,Sunday,0,1,4
+2022-12-02 19:03:18,Whitefield,HSR Layout,43,234.65,351.98,Friday,1,0,12
+2021-08-22 06:23:21,MG Road,Koramangala,11,282.15,338.58,Sunday,0,1,8
+2021-02-06 19:14:41,MG Road,Whitefield,23,204.77,319.44,Saturday,0,1,2
+2023-06-13 10:15:40,Whitefield,Indiranagar,42,193.43,193.43,Tuesday,1,0,6
+2021-09-14 03:06:35,Indiranagar,HSR Layout,48,246.85,246.85,Tuesday,1,0,9
+2023-02-13 04:08:09,Whitefield,MG Road,42,267.68,267.68,Monday,1,0,2
+2022-07-03 10:24:30,Whitefield,Whitefield,49,236.81,284.17,Sunday,0,1,7
+2021-10-10 19:21:30,Indiranagar,Indiranagar,8,166.94,200.33,Sunday,0,1,10
+2021-10-11 21:37:44,Koramangala,Whitefield,27,185.46,185.46,Monday,1,0,10
+2022-05-26 11:37:40,HSR Layout,Whitefield,6,212.02,275.63,Thursday,1,0,5
+2021-09-26 17:02:30,MG Road,Koramangala,17,248.68,387.94,Sunday,0,1,9
+2023-03-29 20:25:33,Whitefield,Whitefield,47,123.48,123.48,Wednesday,1,0,3
+2021-01-18 22:35:17,MG Road,Indiranagar,44,236.07,236.07,Monday,1,0,1
+2021-12-07 14:24:07,MG Road,Koramangala,47,256.81,256.81,Tuesday,1,0,12
+2022-03-06 07:51:23,HSR Layout,HSR Layout,23,193.31,301.56,Sunday,0,1,3
+2022-03-21 22:17:50,HSR Layout,MG Road,29,230.53,230.53,Monday,1,0,3
+2023-04-29 15:06:23,MG Road,HSR Layout,45,185.73,222.88,Saturday,0,1,4
+2023-04-22 23:08:51,MG Road,Whitefield,33,272.45,425.02,Saturday,0,1,4
+2023-10-19 06:27:05,Indiranagar,Indiranagar,33,152.11,152.11,Thursday,1,0,10
+2023-12-04 19:31:23,HSR Layout,HSR Layout,40,141.82,212.73,Monday,1,0,12
+2022-07-02 14:12:28,Koramangala,MG Road,23,280.58,437.7,Saturday,0,1,7
+2022-12-17 17:29:28,MG Road,Indiranagar,32,271.97,326.36,Saturday,0,1,12
+2023-12-24 09:12:24,Koramangala,Koramangala,24,116.73,140.08,Sunday,0,1,12
+2021-12-31 05:57:16,Koramangala,MG Road,32,253.48,253.48,Friday,1,0,12
+2022-04-13 14:17:36,Koramangala,MG Road,28,297.89,297.89,Wednesday,1,0,4
+2023-06-19 14:12:05,Koramangala,Koramangala,21,212.36,212.36,Monday,1,0,6
+2023-11-17 12:26:22,HSR Layout,HSR Layout,3,256.54,256.54,Friday,1,0,11
+2023-05-08 14:49:14,HSR Layout,HSR Layout,12,163.52,212.58,Monday,1,0,5
+2022-12-03 05:42:18,MG Road,Indiranagar,12,224.33,349.95,Saturday,0,1,12
+2021-01-27 02:03:15,Indiranagar,Indiranagar,47,102.51,102.51,Wednesday,1,0,1
+2023-07-10 05:42:44,Whitefield,Whitefield,14,161.47,209.91,Monday,1,0,7
+2021-03-07 12:38:38,Whitefield,MG Road,39,200.13,240.16,Sunday,0,1,3
+2023-08-24 00:50:18,Koramangala,HSR Layout,34,148.65,193.25,Thursday,1,0,8
